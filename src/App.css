@@ -1,0 +1,25 @@
+body {
+  background-image: url('./assets/sunrise.avif');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.cover{
+  display: flex;
+  justify-content: center;
+  opacity: 0.5;
+  margin-top: 15px;
+}
+#search-bar{
+  width: 30% ;
+  /* height: 35px ; */
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px ;
+}
+button{
+  margin-left: 5px;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+}
