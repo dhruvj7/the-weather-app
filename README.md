@@ -1,0 +1,6 @@
+# the-weather-app
+This app helps you predict the current weather in any part of the world just by typing out it's name.
+It is a single page application made in ReactTs which allows you to see the current conditions and temperatures in both kelvin and farehnite.
+
+![Screenshot 2023-09-28 144433](https://github.com/dhruvj7/the-weather-app/assets/89767379/45c40142-41a7-4692-ab51-07644bccb843)
+
